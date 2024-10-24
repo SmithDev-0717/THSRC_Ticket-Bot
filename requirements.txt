@@ -1,0 +1,7 @@
+lxml
+beautifulsoup4
+orjson
+requests
+pytomlpp
+validators
+pyperclip
